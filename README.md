@@ -1,4 +1,7 @@
 # NODE-QUEUE-STACK
+
+2023.7.27
+
 ## 好早之前敲的链表，当时学的时候很艰难，现在对于链表早已烂熟于心，不过这个敲得还是一般
 
 ![NODE-RESULT](https://github.com/xiao-en-5970/NODE-LIST/assets/132341094/9a2ef6e3-1e99-4bed-95d7-49ef837a7a0b)
